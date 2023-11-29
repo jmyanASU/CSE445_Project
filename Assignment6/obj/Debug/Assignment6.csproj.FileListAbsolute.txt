@@ -1,0 +1,7 @@
+C:\Users\ryane\Documents\CSE445\Assignment6\Assignment6\bin\Assignment6.dll.config
+C:\Users\ryane\Documents\CSE445\Assignment6\Assignment6\bin\Assignment6.dll
+C:\Users\ryane\Documents\CSE445\Assignment6\Assignment6\bin\Assignment6.pdb
+C:\Users\ryane\Documents\CSE445\Assignment6\Assignment6\obj\Debug\Assignment6.csproj.AssemblyReference.cache
+C:\Users\ryane\Documents\CSE445\Assignment6\Assignment6\obj\Debug\Assignment6.csproj.CoreCompileInputs.cache
+C:\Users\ryane\Documents\CSE445\Assignment6\Assignment6\obj\Debug\Assignment6.dll
+C:\Users\ryane\Documents\CSE445\Assignment6\Assignment6\obj\Debug\Assignment6.pdb

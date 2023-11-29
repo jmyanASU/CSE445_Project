@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<Members xmlns="https://www.public.asu.edu/~relaawar/" xsi:schemaLocation="https://www.public.asu.edu/~relaawar/ Member.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Member>
+    <username>test</username>
+    <password>password123</password>
+  </Member>
+</Members>
