@@ -30,7 +30,7 @@ namespace CSE445_Project5
 
         protected void StaffButton_Click(object sender, EventArgs e)
         {
-            Response.Redirect("Staff.aspx");
+            Response.Redirect("StaffLogin.aspx");
         }
 
         

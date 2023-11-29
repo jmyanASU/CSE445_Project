@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+
+<Staff>
+	<member>
+		<name>TA</name>
+		<password>Cse44598!</password>
+	</member>
+	<member>
+		<name>Caleb</name>
+		<password>PassCaleb123!</password>
+	</member>
+	<member>
+		<name>Ryan</name>
+		<password>PassRyan456!</password>
+	</member>
+	<member>
+		<name>Jennifer</name>
+		<password>PassJennifer789!</password>
+	</member>
+</Staff>
